@@ -78,17 +78,17 @@ Interactive bookmarks improve dashboard storytelling and user experience.
 Drill-through functionality enables detailed student-level analysis.
 
 📸 Dashboard Preview
-Executive Overview
+Executive_Overview.png
 
-Mental Health & Lifestyle
+Mental_Health_&_Lifestyle.png
 
-Academic Impact
+Academic_Impact.png
 
-Relationships & Conflicts
+Relationship_&_Conflict.png
 
-Interactive Story View
+Interactive_Story_ViewBy_Bookmark.png
 
-Drill-through
+Drillthrough.png
 
 --Skills Demonstrated
 Data Cleaning
